@@ -1,0 +1,136 @@
+
+[
+  {
+    "id": 1,
+    "title": "Array",
+    "description": "A data structure consisting of a collection of elements, each identified by at least one array index or key.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "id": 2,
+    "title": "Linked List",
+    "description": "A linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "id": 3,
+    "title": "Hash Table",
+    "description": "A data structure that implements an associative array abstract data type, a structure that can map keys to values.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "id": 4,
+    "title": "Binary Search",
+    "description": "An efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.",
+    "category": "Algorithms",
+    "exampleProblemUrl": "https://leetcode.com/problems/binary-search/"
+  },
+  {
+    "id": 5,
+    "title": "Sliding Window",
+    "description": "This pattern is used for optimization problems in linear data structures like arrays or strings, where you need to find the longest or shortest valid subsequence.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "id": 6,
+    "title": "Two Pointers",
+    "description": "It's often used on sorted arrays or linked lists to find pairs or triplets that satisfy certain conditions efficiently.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+  },
+  {
+    "id": 7,
+    "title": "Fast and Slow Pointers",
+    "description": "Also known as the Hare & Tortoise algorithm, this is useful for dealing with cyclic linked lists or arrays, for example, to detect a loop.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "id": 8,
+    "title": "Merge Intervals",
+    "description": "This pattern helps in managing problems with overlapping intervals, such as merging them or finding intersections.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "id": 9,
+    "title": "Cyclic Sort",
+    "description": "This is used for problems involving arrays that contain numbers within a specific range, often to find missing or duplicate elements.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/missing-number/"
+  },
+  {
+    "id": 10,
+    "title": "In-place Reversal of a Linked List",
+    "description": "This pattern reverses the nodes of a linked list without using extra space.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "id": 11,
+    "title": "Tree BFS",
+    "description": "Used to traverse a tree level by level, suitable for finding the shortest path or level-related properties.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "id": 12,
+    "title": "Tree DFS",
+    "description": "Traverses a tree by exploring as far as possible down each branch before backtracking, using in-order, pre-order, or post-order traversal.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "id": 13,
+    "title": "Two Heaps",
+    "description": "This pattern uses a min-heap and a max-heap to solve problems where you need to find the median or partition elements into two sets.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "id": 14,
+    "title": "Subsets",
+    "description": "This pattern addresses problems that require generating all possible combinations or permutations of a set.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "id": 15,
+    "title": "Modified Binary Search",
+    "description": "An optimized search technique for sorted data structures like arrays, linked lists, or matrices.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "id": 16,
+    "title": "Top K Elements",
+    "description": "This pattern uses a heap to efficiently find the top, smallest, or most frequent 'K' elements in a set.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "id": 17,
+    "title": "K-way Merge",
+    "description": "Used to merge 'K' sorted lists into a single sorted list, often with the help of a min-heap.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
+    "id": 18,
+    "title": "Topological Sort",
+    "description": "This is for ordering elements that have dependencies on each other, typically in a directed acyclic graph (DAG).",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "id": 19,
+    "title": "Quick Select",
+    "description": "An algorithm to find the k-th smallest element in an unordered list, which is a variation of the quicksort algorithm.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  }
+]
