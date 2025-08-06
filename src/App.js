@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import Flashcard from './components/Flashcard';
 import flashcards from './flashcards.json';
+import Footer from './components/Footer';
 
 function App() {
   const [cards, setCards] = useState([]);
@@ -153,6 +154,7 @@ function App() {
           </button>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
