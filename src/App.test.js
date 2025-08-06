@@ -4,7 +4,7 @@ import App from './App';
 describe('App', () => {
   test('renders Flashcards heading', () => {
     render(<App />);
-    const headingElement = screen.getByText(/Flashcards/i);
+    const headingElement = screen.getByRole('heading', { name: /flashcards/i, level: 1 });
     expect(headingElement).toBeInTheDocument();
   });
 });
