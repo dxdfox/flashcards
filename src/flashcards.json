@@ -132,5 +132,103 @@
     "description": "An algorithm to find the k-th smallest element in an unordered list, which is a variation of the quicksort algorithm.",
     "category": "Common Patterns",
     "exampleProblemUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "id": 20,
+    "title": "Merge Sort",
+    "description": "A divide-and-conquer algorithm that divides the array into halves, sorts them separately, and then merges them back together.",
+    "category": "Algorithms",
+    "exampleProblemUrl": "https://leetcode.com/problems/sort-an-array/"
+  },
+  {
+    "id": 21,
+    "title": "Quick Sort",
+    "description": "An efficient divide-and-conquer sorting algorithm that picks a pivot element and partitions the array around it.",
+    "category": "Algorithms",
+    "exampleProblemUrl": "https://leetcode.com/problems/sort-an-array/"
+  },
+  {
+    "id": 22,
+    "title": "Heap",
+    "description": "A specialized tree-based data structure that satisfies the heap property, commonly used for priority queues and heap sort.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "id": 23,
+    "title": "Union Find",
+    "description": "A data structure that keeps track of elements partitioned into disjoint sets, useful for connectivity problems.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "id": 24,
+    "title": "Dijkstra",
+    "description": "An algorithm for finding the shortest paths between nodes in a graph with non-negative edge weights.",
+    "category": "Algorithms",
+    "exampleProblemUrl": "https://leetcode.com/problems/network-delay-time/"
+  },
+  {
+    "id": 25,
+    "title": "Dynamic Programming",
+    "description": "A method for solving complex problems by breaking them down into simpler subproblems and storing results to avoid redundant calculations.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "id": 26,
+    "title": "Backtracking",
+    "description": "An algorithmic approach that considers searching every possible combination to solve computational problems.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "id": 27,
+    "title": "Graph Traversal",
+    "description": "Techniques for visiting all vertices in a graph systematically, including BFS and DFS approaches.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "id": 28,
+    "title": "Stack",
+    "description": "A linear data structure that follows the Last In First Out (LIFO) principle for adding and removing elements.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "id": 29,
+    "title": "Queue",
+    "description": "A linear data structure that follows the First In First Out (FIFO) principle for adding and removing elements.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/implement-queue-using-stacks/"
+  },
+  {
+    "id": 30,
+    "title": "Binary Tree",
+    "description": "A hierarchical data structure where each node has at most two children, referred to as left and right child.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "id": 31,
+    "title": "Trie",
+    "description": "A tree-like data structure used to store a dynamic set of strings, where keys are usually strings and efficient for prefix searches.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "id": 32,
+    "title": "Cycle Detection",
+    "description": "Algorithms to detect cycles in data structures like linked lists or graphs, often using Floyd's cycle detection algorithm.",
+    "category": "Common Patterns",
+    "exampleProblemUrl": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "id": 33,
+    "title": "Binary Search Tree",
+    "description": "A binary tree where the left subtree contains values less than the parent node and the right subtree contains values greater.",
+    "category": "Data Structures",
+    "exampleProblemUrl": "https://leetcode.com/problems/validate-binary-search-tree/"
   }
 ]
