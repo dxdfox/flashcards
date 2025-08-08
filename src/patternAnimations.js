@@ -1,0 +1,31 @@
+export const patternAnimations = {
+  // From flashcards.json
+  "Array": "1️⃣2️⃣3️⃣4️⃣5️⃣",
+  "Linked List": "🔗→🅰️→🅱️→☪️",
+  "Hash Table": "🔑→#️⃣→📦",
+  "Binary Search": "Sorted🔍➡️✂️2️⃣",
+  "Sliding Window": "↔️[🪟]↔️",
+  "Two Pointers": "👉...🎯...👈",
+  "Fast and Slow Pointers": "🐢......🐇",
+  "Merge Intervals": "[--][--]🤝[----]",
+  "Cyclic Sort": "🔄[1️⃣,3️⃣,2️⃣]➡️[1️⃣,2️⃣,3️⃣]",
+  "In-place Reversal of a Linked List": "A→B→C🔄C→B→A",
+  "Tree BFS": "🌳➡️[L1][L2][L3]",
+  "Tree DFS": "🌳→🌲→🍃→🍂",
+  "Two Heaps": "🔽(max)👑🔼(min)",
+  "Subsets": "📦→{},{a},{b},{a,b}",
+  "Modified Binary Search": "🔄Sorted🔍✂️",
+  "Top K Elements": "📊→🔼→🏆🏆🏆",
+  "K-way Merge": "📜+📜+📜=📜",
+  "Topological Sort": "A➡️B➡️C➡️🏁",
+  "Quick Select": "[ pivot ]🎯k-th",
+
+  // Additional common patterns
+  "Dynamic Programming": "💾(n-1)➡️✨➡️f(n)",
+  "Backtracking": "🗺️→✅→❌→↩️→✅",
+  "Dijkstra's Algorithm": "🗺️→📍→最短→📍",
+  "Union Find": "🌳+🌳🤝🌳",
+  "Merge Sort": "✂️[..]→[.]+[.]→🤝[..]",
+  "Quick Sort": "[<P|P|>P]",
+  "Heap": "🔼 Heapify 🔽",
+};
