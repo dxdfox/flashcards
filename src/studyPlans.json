@@ -1,0 +1,187 @@
+{
+  "blind75": {
+    "name": "Blind 75",
+    "description": "A curated list of 75 essential LeetCode questions for technical interviews",
+    "categories": {
+      "Array": [
+        {
+          "id": 1,
+          "name": "Two Sum",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/two-sum/",
+          "pattern": "Hash Table"
+        },
+        {
+          "id": 121,
+          "name": "Best Time to Buy and Sell Stock",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+          "pattern": "Dynamic Programming"
+        },
+        {
+          "id": 217,
+          "name": "Contains Duplicate",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/contains-duplicate/",
+          "pattern": "Hash Table"
+        },
+        {
+          "id": 238,
+          "name": "Product of Array Except Self",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/product-of-array-except-self/",
+          "pattern": "Array"
+        },
+        {
+          "id": 53,
+          "name": "Maximum Subarray",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/maximum-subarray/",
+          "pattern": "Dynamic Programming"
+        }
+      ],
+      "Binary": [
+        {
+          "id": 371,
+          "name": "Sum of Two Integers",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/sum-of-two-integers/",
+          "pattern": "Bit Manipulation"
+        },
+        {
+          "id": 191,
+          "name": "Number of 1 Bits",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/number-of-1-bits/",
+          "pattern": "Bit Manipulation"
+        }
+      ],
+      "Dynamic Programming": [
+        {
+          "id": 70,
+          "name": "Climbing Stairs",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/climbing-stairs/",
+          "pattern": "Dynamic Programming"
+        },
+        {
+          "id": 322,
+          "name": "Coin Change",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/coin-change/",
+          "pattern": "Dynamic Programming"
+        },
+        {
+          "id": 300,
+          "name": "Longest Increasing Subsequence",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+          "pattern": "Dynamic Programming"
+        }
+      ],
+      "Graph": [
+        {
+          "id": 133,
+          "name": "Clone Graph",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/clone-graph/",
+          "pattern": "Graph"
+        },
+        {
+          "id": 207,
+          "name": "Course Schedule",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/course-schedule/",
+          "pattern": "Topological Sort"
+        }
+      ],
+      "Interval": [
+        {
+          "id": 57,
+          "name": "Insert Interval",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/insert-interval/",
+          "pattern": "Merge Intervals"
+        },
+        {
+          "id": 56,
+          "name": "Merge Intervals",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/merge-intervals/",
+          "pattern": "Merge Intervals"
+        }
+      ],
+      "Linked List": [
+        {
+          "id": 206,
+          "name": "Reverse Linked List",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/reverse-linked-list/",
+          "pattern": "In-place Reversal of a Linked List"
+        },
+        {
+          "id": 141,
+          "name": "Linked List Cycle",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/linked-list-cycle/",
+          "pattern": "Fast and Slow Pointers"
+        }
+      ],
+      "Matrix": [
+        {
+          "id": 73,
+          "name": "Set Matrix Zeroes",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+          "pattern": "Array"
+        },
+        {
+          "id": 54,
+          "name": "Spiral Matrix",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/spiral-matrix/",
+          "pattern": "Array"
+        }
+      ],
+      "String": [
+        {
+          "id": 3,
+          "name": "Longest Substring Without Repeating Characters",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+          "pattern": "Sliding Window"
+        },
+        {
+          "id": 424,
+          "name": "Longest Repeating Character Replacement",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+          "pattern": "Sliding Window"
+        }
+      ],
+      "Tree": [
+        {
+          "id": 104,
+          "name": "Maximum Depth of Binary Tree",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+          "pattern": "Tree DFS"
+        },
+        {
+          "id": 100,
+          "name": "Same Tree",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/same-tree/",
+          "pattern": "Tree DFS"
+        },
+        {
+          "id": 226,
+          "name": "Invert Binary Tree",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/invert-binary-tree/",
+          "pattern": "Tree DFS"
+        }
+      ]
+    }
+  }
+}
